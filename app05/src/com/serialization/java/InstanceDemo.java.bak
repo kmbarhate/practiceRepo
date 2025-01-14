@@ -13,7 +13,7 @@ public class InstanceDemo {
 		V a = new V();
 		a.m1();
 		System.out.println(a.j);
-		System.out.println("the great kiran");
+		
 		 // V a3 = null;
 		 // System.out.println(a3.j);NullPointerException getting here
 		 
